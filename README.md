@@ -13,16 +13,25 @@ Tuesday, March 26, 1:45 - 3:30PM
 
 **Python Programming Fundamentals (1:45 - 2:30)**
 
-- Getting Started (Maybe talk about Jupyter here)
+- Getting Started: Anaconda
+    - Installing Python
+    - Creating environments
+    - Installing packages
+- Intro to Python
+    - Language characteristics
+    - Python idioms
+    - Coding best practices
+- Interactive Computing: IPython and Jupyter
+    - Jupyter notebooks
+    - JupyterLab
 
 **Break (2:30 - 2:40)**
 
 **Using Python for Data Science (2:40 - 3:30)**
 
-- Interactive Computing: Jupyter
+- Data Processing: pandas
 - Scientific Computing: NumPy and SciPy
 - Plotting: Matplotlib and Seaborn
-- Data Processing: pandas
 - Machine Learning: scikit-learn and TensorFlow
 - Bayesian Statistics: PyMC3
 
