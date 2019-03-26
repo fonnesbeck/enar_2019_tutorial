@@ -2,23 +2,31 @@ name: enar_tutorial
 dependencies:
 - python=3.7
 - beautifulsoup4
+- bokeh
+- cython
 - graphviz
 - ipython
+- ipywidgets
 - jupyter_client
 - jupyter_core
 - jupyterlab
-- ipywidgets
+- lxml
 - matplotlib
+- mkl-service
 - notebook
 - numpy
 - pandas
+- patsy
+- pip
+- pymc3
 - pydot
+- python-graphviz
+- rpy2
 - scikit-learn
 - scipy
 - seaborn
 - setuptools
-- pip
-- lxml
+- simplegeneric
+- sympy
 - xlrd
-- patsy
-- pymc3
+
