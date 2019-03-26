@@ -11,30 +11,9 @@ Though Python is ostensibly a general-purpose programming language, it has quick
 
 Tuesday, March 26, 1:45 - 3:30PM
 
-**Python Programming Fundamentals (1:45 - 2:30)**
-
-- Getting Started: Anaconda
-    - Installing Python
-    - Creating environments
-    - Installing packages
 - Intro to Python
-    - Language characteristics
-    - Python idioms
-    - Coding best practices
 - Interactive Computing: IPython and Jupyter
-    - Jupyter notebooks
-    - JupyterLab
-
-**Break (2:30 - 2:40)**
-
-**Using Python for Data Science (2:40 - 3:30)**
-
 - Data Processing: pandas
-- Scientific Computing: NumPy and SciPy
-- Plotting: Matplotlib and Seaborn
 - Machine Learning: scikit-learn and TensorFlow
 - Bayesian Statistics: PyMC3
 
-## Installation Instructions
-
-TBA

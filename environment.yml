@@ -1,0 +1,24 @@
+name: enar_tutorial
+dependencies:
+- python=3.7
+- beautifulsoup4
+- graphviz
+- ipython
+- jupyter_client
+- jupyter_core
+- jupyterlab
+- ipywidgets
+- matplotlib
+- notebook
+- numpy
+- pandas
+- pydot
+- scikit-learn
+- scipy
+- seaborn
+- setuptools
+- pip
+- lxml
+- xlrd
+- patsy
+- pymc3
