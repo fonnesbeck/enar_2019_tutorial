@@ -13,8 +13,8 @@ Though Python is ostensibly a general-purpose programming language, it has quick
 Tuesday, March 26, 1:45 - 3:30PM
 
 - Intro to Python
-- Interactive Computing: IPython and Jupyter
+- Interactive Computing: Jupyter
 - Data Processing: pandas
-- Machine Learning: scikit-learn and TensorFlow
+- Machine Learning: scikit-learn
 - Bayesian Statistics: PyMC3
 
